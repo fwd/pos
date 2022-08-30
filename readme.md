@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fwd/n2/raw/master/.github/banner.png" alt="Prompts" width="500" />
+  <img src="https://github.com/fwd/n2/raw/master/.github/banner.png" alt="Prompts" width="340" />
 </p>
 
 <h2 align="center">Nano Point of Sale</h2>
@@ -12,7 +12,7 @@
 
 Give a ⭐️ if this project helped you!
 
-Contributions, issues and feature requests are welcome at [issues page](https://github.com/fwd/n2/issues).
+Contributions, issues and feature requests are welcome at [issues page](https://github.com/fwd/pos/issues).
 
 ## ❯ License
 
@@ -22,4 +22,4 @@ Copyright © [nano2dev](https://twitter.com/nano2dev).
 
 ## ❯ Stargazers
 
-[![Stargazers over time](https://starchart.cc/fwd/n2.svg)](https://github.com/fwd/n2)
+[![Stargazers over time](https://starchart.cc/fwd/pos.svg)](https://github.com/fwd/pos)
