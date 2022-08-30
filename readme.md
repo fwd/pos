@@ -2,7 +2,7 @@
   <img src="https://github.com/fwd/n2/raw/master/.github/banner.png" alt="Prompts" width="500" />
 </p>
 
-<h2 align="center">Open Source Point of Sale</h2>
+<h2 align="center">Nano Point of Sale</h2>
 
 <h3 align="center">Beta v0.1</h3>
 
